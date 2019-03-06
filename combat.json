@@ -1,0 +1,10 @@
+{
+  "cooldown": [
+    {
+      "shield": "1.8",
+      "sword": "1.8",
+      "tool": "1.8",
+      "fishingrod": "1.8"
+    }
+  ]
+}

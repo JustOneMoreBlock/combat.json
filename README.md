@@ -1,12 +1,15 @@
 On March, 4th, 2019 AntVenom tweeted a new video he uploaded about the new Minecraft 1.14 Villager Trading, and in the video, he made a comment about the `Minecraft Combat PvP`, and ask Mojang to add-in a `/gamerule` to Minecraft.
 
 Tweet: https://twitter.com/AntVenom/status/1102708478618025985
+
 Combat Comment: https://youtu.be/fET63lohY9Y?t=541
 
 After watching the video, and heard the comment I immediately made a comment to AntVenom about how many players in the Minecraft Community have been asking for changes to the Combat System with the ability to change using a `/gamerule`. I’ve mentioned to others in the past a possible `server.properties` setting.
 
 2017: https://twitter.com/JustPlayHere/status/920034395465175041
+
 2018: https://twitter.com/JustPlayHere/status/986767278904668161
+
 2019: https://twitter.com/JustPlayHere/status/1102714657914187776
 
 Over the years, the idea of it hasn’t changed. However, the method, and the way it should be approached has changed. In the 2019 tweet, a YouTuber by the name of @mcabnormals posted a video of “Why a gamerule won’t fix Combat PvP”.

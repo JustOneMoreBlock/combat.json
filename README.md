@@ -41,14 +41,14 @@ Source: https://www.reddit.com/r/Minecraft/comments/c5mqwv/a_custom_java_edition
 They're for sure `Balacing` it, however, their approach is to hardcode the `BALANCE` and not give `Server Owners` the ability to do so.
 
 # BALANCED FREEFORM
-I prefer my method of creating the `combat.json` file at the start and they would be their default values. This still come later after it's been all polished and using a `-1` would essentially allow servers owners to disable the `1.9 PvP` and give us `1.7 or 1.8 PvP` to make everyone happy.
+I prefer my method of creating the `combat.json` file at the start and they would be their default values. This still come later after it's been all polished and using a `-1` would essentially allow servers owners to disable the `1.9 PvP` and give us `1.8 PvP` to make everyone happy.
 
-The end goal either way here regardless of the way they do it. `BALANCED HARDCODED` or `BALANCED FREEFORM` as long as `Players` upgrade their client from `1.7+` to the Latest Version of Minecraft.
+The end goal either way here regardless of the way they do it. `BALANCED HARDCODED` or `BALANCED FREEFORM` as long as `Players` upgrade their client from `1.8+` to the Latest Version of Minecraft.
 
 If `Players Upgrade` eventually in time `Servers WILL Upgrade`.
 
 Why is this important?
-If players are happy on the latest version of Minecraft with the new `Combat Mechanics` then `Server Owners` no longer need a reason to continue support for `Minecraft 1.7 to at least Minecraft 1.12.2`. This would support 1.13+ versions only, and then eventually as newer upgrades progess older versions can be `RETIRED`.
+If players are happy on the latest version of Minecraft with the new `Combat Mechanics` then `Server Owners` no longer need a reason to continue support for `Minecraft 1.8 to at least Minecraft 1.13.2`. This would support 1.13+ versions only, and then eventually as newer upgrades progess older versions can be `RETIRED`.
 
 EOL = End of Life
 

@@ -30,3 +30,33 @@ Based on his screenshot of 1.8 vs 1.9 Combat PvP. I wrote a JSON file called `co
 At the moment it’s based off Minecraft Versioning. However, If I know Mojang they will likely make to use actually cooldown numbers. The purpose of showing it this way is to show an example of how it would work.
 
 The reason why I added "cooldown" to the JSON file as there could be a whole more to Minecraft Combat than basic configs. The proposed idea will allow the combat system to be modified as needed.
+
+On Thursday, June 27th, 2019 - Mojang released "A custom Java Edition snapshot to test new combat mechanics" for version `1.14` in order to gain feedback on `Combat Changes` they maybe pending for the next release of Minecraft 1.15 and Minecraft Bedrock Edition.
+
+The end goal is to essentially have the same `Combat` on all platforms of Minecraft and where the issue lies as they need to be `BALANCED` to the be the same game on all platforms.
+
+Source: https://www.reddit.com/r/Minecraft/comments/c5mqwv/a_custom_java_edition_snapshot_to_test_new_combat/
+
+# BALANCED HARDCODED
+They're for sure `Balacing` it, however, their approach is to hardcode the `BALANCE` and not give `Server Owners` the ability to do so.
+
+# BALANCED FREEFORM
+I prefer my method of creating the `combat.json` file at the start and they would be their default values. This still come later after it's been all polished and using a `-1` would essentially allow servers owners to disable the `1.9 PvP` and give us `1.7 or 1.8 PvP` to make everyone happy.
+
+The end goal either way here regardless of the way they do it. `BALANCED HARDCODED` or `BALANCED FREEFORM` as long as `Players` upgrade their client from `1.7+` to the Latest Version of Minecraft.
+
+If `Players Upgrade` eventually in time `Servers WILL Upgrade`.
+
+Why is this important?
+If players are happy on the latest version of Minecraft with the new `Combat Mechanics` then `Server Owners` no longer need a reason to continue support for `Minecraft 1.7 to at least Minecraft 1.12.2`. This would support 1.13+ versions only, and then eventually as newer upgrades progess older versions can be `RETIRED`.
+
+EOL = End of Life
+
+# COMBAT CHANGES UPGRADE MAP
+| Client Version | Server Version |  EOL Server Support |
+|--|--|--|
+| Minecraft 1.15.x | Minecraft 1.15.x | Minecraft 1.8.9-1.13.2 |
+| Minecraft 1.16.x | Minecraft 1.16.x | Minecraft 1.14.x |
+| Minecraft 1.17.x | Minecraft 1.17.x | Minecraft 1.15.x-1.16.x |
+
+If `Client Version` and `Server Version` then `EOL Server Support`

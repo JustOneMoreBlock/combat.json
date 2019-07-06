@@ -47,10 +47,11 @@ The end goal either way here regardless of the way they do it. `BALANCED HARDCOD
 
 If `Players Upgrade` eventually in time `Servers WILL Upgrade`.
 
-Why is this important?
-If players are happy on the latest version of Minecraft with the new `Combat Mechanics` then `Server Owners` no longer need a reason to continue support for `Minecraft 1.8 to at least Minecraft 1.13.2`. This would support 1.13+ versions only, and then eventually as newer upgrades progess older versions can be `RETIRED`.
-
 EOL = End of Life
+
+Why is this important?
+
+If players are happy on the latest version of Minecraft with the new `Combat Mechanics` then `Server Owners` no longer need a reason to continue support for `Minecraft 1.8 to at least Minecraft 1.13.2`. This would support 1.14+ versions only, and then eventually as newer upgrades progess older versions can be set to `EOL`.
 
 # COMBAT CHANGES UPGRADE MAP
 | Client Version | Server Version |  EOL Server Support |
